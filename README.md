@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
