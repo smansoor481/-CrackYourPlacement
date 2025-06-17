@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1827-invalid-tweets) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
