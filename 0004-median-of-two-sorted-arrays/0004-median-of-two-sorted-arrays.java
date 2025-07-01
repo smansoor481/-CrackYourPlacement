@@ -28,7 +28,7 @@ class Solution {
         {
             int mid1 = merged[total/2-1];
             int mid2 = merged[total/2];
-            return (mid1 + mid2) / 2.0;
+            return ((double)mid1 + (double)mid2) / 2.0;
         }
 
 
