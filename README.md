@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
