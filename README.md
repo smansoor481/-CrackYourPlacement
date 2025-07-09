@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
