@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [1777-determine-if-two-strings-are-close](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 ## Memoization
 |  |
