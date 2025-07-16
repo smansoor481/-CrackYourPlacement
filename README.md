@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/smansoor481/-CrackYourPlacement/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/smansoor481/-CrackYourPlacement/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
