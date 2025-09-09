@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2048-build-array-from-permutation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/smansoor481/-CrackYourPlacement/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/3791-fruits-into-baskets-iii) |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/3791-fruits-into-baskets-iii) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
