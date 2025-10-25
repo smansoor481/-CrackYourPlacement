@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2058-concatenation-of-array) |
 ## Matrix
