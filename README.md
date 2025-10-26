@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Memoization
 |  |
 | ------- |
