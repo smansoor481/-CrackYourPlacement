@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
