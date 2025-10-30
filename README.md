@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [3791-fruits-into-baskets-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
