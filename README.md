@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
