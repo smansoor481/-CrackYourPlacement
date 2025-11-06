@@ -11,11 +11,10 @@ class Solution {
             {
                 end = mid;
             }
-            else
-            {
+            else{
                 start = mid+1;
             }
         }
-        return start;
+        return end;
     }
 }
