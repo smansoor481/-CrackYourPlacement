@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3791-fruits-into-baskets-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1791-richest-customer-wealth) |
 ## Counting Sort
 |  |
