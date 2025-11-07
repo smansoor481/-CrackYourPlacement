@@ -1,28 +1,26 @@
-import java.util.Set;
-
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        Set<Integer> set1 = new HashSet<>();
-        for (int i : nums1) {
-            set1.add(i);
-        }
-        Set<Integer> set2 = new HashSet<>();
-        for (int i : nums2) {
-            set2.add(i);
-        }
-        //Removed Duplicates using Hashset
-        Set<Integer> Main_Set = new HashSet<>();
-        for (Integer var : set1) {
-            if (set2.contains(var)) {
-                Main_Set.add(var);
+       
+        Set<Integer> li = new TreeSet<>();
+        for(int i=0;i<nums1.length;i++)
+        {
+            for(int j=0;j<nums2.length;j++)
+            {
+                if(nums1[i] == nums2[j])
+                {
+                    li.add(nums1[i]);
+                    break;
+                }
             }
         }
-        int[] arr = new int[Main_Set.size()];
-        int j = 0;
-        for (Integer val : Main_Set) {
-            arr[j] = val.intValue();
-            j++;
+
+        int[] result = new int[li.size()];
+        int index = 0;
+        for(int num : li)
+        {
+            result[index++] = num;
         }
-        return arr;
+
+        return result;
     }
 }
