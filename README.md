@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0755-reach-a-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0924-fair-candy-swap) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0633-sum-of-square-numbers) |
+| [0755-reach-a-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1635-number-of-good-pairs) |
