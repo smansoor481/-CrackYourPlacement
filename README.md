@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1635-number-of-good-pairs) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Linked List
 |  |
 | ------- |
