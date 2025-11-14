@@ -9,16 +9,16 @@ class Solution {
 
             if (canPlace(mid, n, index, maxSum)) {
                 ans = mid;
-                left = mid + 1;  // try bigger value
+                left = mid + 1;   
             } else {
-                right = mid - 1; // too big, reduce
+                right = mid - 1;  
             }
         }
 
         return ans;
     }
 
-    // checks if nums[index] = peak is possible
+     
     private boolean canPlace(int peak, int n, int index, int maxSum) {
         long sum = peak;
 
@@ -33,15 +33,15 @@ class Solution {
         return sum <= maxSum;
     }
 
-    // computes sum of decreasing sequence on one side
+     
     private long calcSide(int start, int count) {
         if (start >= count) {
-            // full decreasing sequence: start + (start-1) + ... + (start-count+1)
+             
             return (long)count * start - (long)count * (count - 1) / 2;
         } else {
-            // it hits 1 before covering all positions
-            long full = (long)start * (start + 1) / 2; // from start down to 1
-            long ones = (count - start);               // remaining are 1s
+            
+            long full = (long)start * (start + 1) / 2;  
+            long ones = (count - start);                
             return full + ones;
         }
     }
