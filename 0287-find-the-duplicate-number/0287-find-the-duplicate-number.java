@@ -1,13 +1,30 @@
-import java.util.Arrays;
-
 class Solution {
     public int findDuplicate(int[] nums) {
-        Arrays.sort(nums);               // Sort the array
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (nums[i] == nums[i + 1]) { // Check adjacent elements
-                return nums[i];          // Return the duplicate
+        int start = 0;
+        int end = nums.length-1;
+        while(start < end)
+        {
+            int mid = start + (end - start)/2;
+            int count = 0;
+
+            for(int num : nums)
+            {
+                if(num <= mid)
+                {
+                    count++;
+                }
+            }
+
+            if(count > mid)
+            {
+                end = mid;
+            }
+            else
+            {
+                start = mid + 1;
             }
         }
-        throw new IllegalArgumentException("No duplicate found");
+
+        return start;
     }
 }
