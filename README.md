@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0633-sum-of-square-numbers) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Math
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1603-running-sum-of-1d-array) |
