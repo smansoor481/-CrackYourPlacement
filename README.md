@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1651-shuffle-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
+| [1797-goal-parser-interpretation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1960-check-if-the-sentence-is-pangram) |
