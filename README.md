@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1651-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1651-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1777-determine-if-two-strings-are-close](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [1797-goal-parser-interpretation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1797-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1859-sorting-the-sentence) |
