@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0443-string-compression) |
+| [0709-to-lower-case](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0709-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1205-defanging-an-ip-address) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
