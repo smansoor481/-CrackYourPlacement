@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0709-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1205-defanging-an-ip-address) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1651-shuffle-string) |
