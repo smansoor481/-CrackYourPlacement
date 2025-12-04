@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0633-sum-of-square-numbers) |
+| [0925-long-pressed-name](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0925-long-pressed-name) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0709-to-lower-case) |
+| [0925-long-pressed-name](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0925-long-pressed-name) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1205-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
