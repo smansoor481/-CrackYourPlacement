@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1899-count-items-matching-a-rule) |
+| [1929-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2048-build-array-from-permutation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2058-concatenation-of-array) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1505-create-target-array-in-the-given-order) |
+| [1929-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2058-concatenation-of-array) |
 ## Matrix
