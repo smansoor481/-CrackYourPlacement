@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
