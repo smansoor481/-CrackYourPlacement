@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0924-fair-candy-swap) |
 | [1319-unique-number-of-occurrences](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1319-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1635-number-of-good-pairs) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0924-fair-candy-swap) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Interactive
 |  |
