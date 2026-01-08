@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1441-build-an-array-with-stack-operations](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 | [1505-create-target-array-in-the-given-order](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1505-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
@@ -360,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
