@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0162-find-peak-element) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0367-valid-perfect-square) |
@@ -362,5 +364,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
