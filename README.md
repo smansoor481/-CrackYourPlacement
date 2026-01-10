@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
@@ -365,5 +366,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
