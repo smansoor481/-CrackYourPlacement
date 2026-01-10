@@ -6,7 +6,6 @@ class Solution {
 
         for (int i = 1; i <= n; i++)
         {
-
             li.add("Push");
 
             if (tIndex < target.length && i == target[tIndex]) 
