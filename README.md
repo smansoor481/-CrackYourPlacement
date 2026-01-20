@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1651-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1791-richest-customer-wealth](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 | [1505-create-target-array-in-the-given-order](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1505-create-target-array-in-the-given-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2058-concatenation-of-array) |
@@ -374,10 +376,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
