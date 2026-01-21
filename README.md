@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2048-build-array-from-permutation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2073-time-needed-to-buy-tickets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/smansoor481/-CrackYourPlacement/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/3791-fruits-into-baskets-iii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2073-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
 | ------- |
@@ -387,4 +389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
