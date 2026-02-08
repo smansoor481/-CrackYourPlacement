@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/smansoor481/-CrackYourPlacement/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0633-sum-of-square-numbers) |
 | [0755-reach-a-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/smansoor481/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
